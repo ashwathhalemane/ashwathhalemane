@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ashwathhalemane
 - 📚  I am a MS CS student @ RIT, NY
 - 👀 I’m interested backend dev, devops and security ...
-- 🌱 I’m currently learning DSA, cryptography ...
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Dynamic programming, cryptography ... 
+
 
 
 <!---
