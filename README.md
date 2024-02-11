@@ -27,7 +27,7 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   
 <a href="https://github.com/ashwathhalemane">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwathhalemane&theme=buefy&layout=compact&hide=html,jupyter%20notebook,css" />
