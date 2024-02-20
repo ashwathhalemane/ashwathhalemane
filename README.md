@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Computer Science graduate with minor in Data Science at Rochester Institute of Technology. May 2024.
-- 🌱 &nbsp; Currently working on Neural Network Machine Translation on low-resource langugaes. 
-- Visit my portfolio: [Link](https://ashwathhalemane.github.io)
+ 🎓 &nbsp; Computer Science graduate with minor in Data Science at Rochester Institute of Technology. May 2024.
+ 🌱 &nbsp; Currently working on Neural Network Machine Translation on low-resource langugaes. 
+ Visit my portfolio: [Link](https://ashwathhalemane.github.io)
 
 <a href="https://github.com/ashwathhalemane">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwathhalemane&theme=buefy&layout=compact&hide=html,jupyter%20notebook,css" />
