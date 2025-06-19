@@ -2,8 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
- - 🎓 &nbsp; Computer Science graduate with minor in Data Science at Rochester Institute of Technology, May 2024.
- - 🌱 &nbsp; Currently working on Neural Network Machine Translation on low-resource langugaes. 
+ - 🎓 &nbsp; Computer Science graduate with minor in Big Data at Rochester Institute of Technology, May 2024.
  - Visit my portfolio: [Link](https://ashwathhalemane.github.io)
 
 <a href="https://github.com/ashwathhalemane">
